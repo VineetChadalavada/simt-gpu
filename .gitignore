@@ -1,0 +1,11 @@
+build/
+__pycache__/
+*.pyc
+.Xil/
+*.jou
+*.log
+*.pb
+xsim.dir/
+synth/reports/*.ys
+synth/reports/clk_*.xdc
+*.vvp

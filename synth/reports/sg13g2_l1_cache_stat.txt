@@ -1,0 +1,45 @@
+
+19. Printing statistics.
+
+=== l1_cache ===
+
+        +----------Local Count, excluding submodules.
+        |        +-Local Area, excluding submodules.
+        |        | 
+    43203        - wires
+    61758        - wire bits
+      143        - public wires
+    18698        - public wire bits
+       12        - ports
+      810        - port bits
+    61205 1.38E+06 cells
+      431 5.47E+03   sg13g2_a21o_1
+     2825  25628.4   sg13g2_a21oi_1
+     2388 3.47E+04   sg13g2_a221oi_1
+     7211 7.82E+04   sg13g2_a22oi_1
+       47  426.384   sg13g2_and2_1
+       14  177.811   sg13g2_and3_1
+        1   14.515   sg13g2_and4_1
+    17888 8.76E+05   sg13g2_dfrbpq_1
+      547  2977.43   sg13g2_inv_1
+    10075 1.83E+05   sg13g2_mux2_1
+      183 6.97E+03   sg13g2_mux4_1
+     8923 6.48E+04   sg13g2_nand2_1
+      226 2.05E+03   sg13g2_nand2b_1
+      565  5125.68   sg13g2_nand3_1
+        2   25.402   sg13g2_nand3b_1
+       31  337.478   sg13g2_nand4_1
+      464 3.37E+03   sg13g2_nor2_1
+        8   72.576   sg13g2_nor2b_1
+      281 2.55E+03   sg13g2_nor3_1
+      414  4506.97   sg13g2_nor4_1
+     8582 7.79E+04   sg13g2_o21ai_1
+       53  480.816   sg13g2_or2_1
+       37   469.93   sg13g2_or3_1
+        5   72.576   sg13g2_or4_1
+        3   43.546   sg13g2_xnor2_1
+        1   14.515   sg13g2_xor2_1
+
+   Chip area for module '\l1_cache': 1375407.318600
+     of which used for sequential elements: 876311.654400 (63.71%)
+
